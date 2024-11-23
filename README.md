@@ -14,4 +14,4 @@ This analysis led to four recommendations:
 3. The client shall consider scheduling flights during VMC weather conditions and implement enhanced safety measures for flights in IMC conditions. This will help manage risk and improve safety during adverse weather scenarios.
 4. The team should focus on enforcing additional safety measures during critical flight phases such as 'Cruise,' 'Maneuvering,' 'Takeoff,' and 'Approach.' The client should explore ways to ensure smooth operations during these phases and invest in robust precautionary measures to minimize mishaps.
 ## For more information:
-See the full analysis in the Jupyter Notebook or review this presentation.
+See the full analysis in the [Jupyter Notebook](https://github.com/Kurgat-Bee/Aviation-Project/blob/main/Aviation%20data%20analysis.ipynb) or review this [presentation]().
